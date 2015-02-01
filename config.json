@@ -1,0 +1,9 @@
+{
+    "username": "",
+    "password": "",
+    "hostname": "",
+    "domain": "dyns.cx",
+    "interval": 600,
+    "log": "./log.json",
+    "log_level": "info"
+}

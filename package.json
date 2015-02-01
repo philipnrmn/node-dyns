@@ -1,0 +1,26 @@
+{
+  "name": "node-dyns",
+  "version": "1.0.0",
+  "description": "A node.js update client for dyns.cx",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philipnrmn/node-dyns"
+  },
+  "keywords": [
+    "node",
+    "dyns",
+    "dyndns"
+  ],
+  "author": "Philip Norman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipnrmn/node-dyns/issues"
+  },
+  "homepage": "https://github.com/philipnrmn/node-dyns",
+  "dependencies": {
+    "nconf": "^0.7.1",
+    "request": "^2.51.0",
+    "winston": "^0.8.3"
+  }
+}
